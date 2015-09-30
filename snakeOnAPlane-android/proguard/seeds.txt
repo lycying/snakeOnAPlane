@@ -1,0 +1,1170 @@
+aurelienribon.tweenengine.Timeline$Modes: aurelienribon.tweenengine.Timeline$Modes[] values()
+aurelienribon.tweenengine.Timeline$Modes: aurelienribon.tweenengine.Timeline$Modes valueOf(java.lang.String)
+com.badlogic.gdx.Application$ApplicationType: com.badlogic.gdx.Application$ApplicationType[] values()
+com.badlogic.gdx.Application$ApplicationType: com.badlogic.gdx.Application$ApplicationType valueOf(java.lang.String)
+com.badlogic.gdx.Files$FileType: com.badlogic.gdx.Files$FileType[] values()
+com.badlogic.gdx.Files$FileType: com.badlogic.gdx.Files$FileType valueOf(java.lang.String)
+com.badlogic.gdx.Graphics$GraphicsType: com.badlogic.gdx.Graphics$GraphicsType[] values()
+com.badlogic.gdx.Graphics$GraphicsType: com.badlogic.gdx.Graphics$GraphicsType valueOf(java.lang.String)
+com.badlogic.gdx.Input$Orientation: com.badlogic.gdx.Input$Orientation[] values()
+com.badlogic.gdx.Input$Orientation: com.badlogic.gdx.Input$Orientation valueOf(java.lang.String)
+com.badlogic.gdx.Input$Peripheral: com.badlogic.gdx.Input$Peripheral[] values()
+com.badlogic.gdx.Input$Peripheral: com.badlogic.gdx.Input$Peripheral valueOf(java.lang.String)
+com.badlogic.gdx.backends.android.AndroidApplication
+com.badlogic.gdx.backends.android.AndroidApplication: AndroidApplication()
+com.badlogic.gdx.backends.android.AndroidGL20
+com.badlogic.gdx.backends.android.AndroidGL20: void init()
+com.badlogic.gdx.backends.android.AndroidGL20: void glActiveTexture(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glAttachShader(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBindAttribLocation(int,int,java.lang.String)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBindBuffer(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBindFramebuffer(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBindRenderbuffer(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBindTexture(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBlendColor(float,float,float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBlendEquation(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBlendEquationSeparate(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBlendFunc(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBlendFuncSeparate(int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBufferData(int,int,java.nio.Buffer,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glBufferSubData(int,int,int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: int glCheckFramebufferStatus(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glClear(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glClearColor(float,float,float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glClearDepthf(float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glClearStencil(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glColorMask(boolean,boolean,boolean,boolean)
+com.badlogic.gdx.backends.android.AndroidGL20: void glCompileShader(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glCompressedTexImage2D(int,int,int,int,int,int,int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glCompressedTexSubImage2D(int,int,int,int,int,int,int,int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glCopyTexImage2D(int,int,int,int,int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glCopyTexSubImage2D(int,int,int,int,int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: int glCreateProgram()
+com.badlogic.gdx.backends.android.AndroidGL20: int glCreateShader(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glCullFace(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDeleteBuffers(int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDeleteFramebuffers(int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDeleteProgram(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDeleteRenderbuffers(int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDeleteShader(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDeleteTextures(int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDepthFunc(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDepthMask(boolean)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDepthRangef(float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDetachShader(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDisable(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDisableVertexAttribArray(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDrawArrays(int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDrawElements(int,int,int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glDrawElements(int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glEnable(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glEnableVertexAttribArray(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glFinish()
+com.badlogic.gdx.backends.android.AndroidGL20: void glFlush()
+com.badlogic.gdx.backends.android.AndroidGL20: void glFramebufferRenderbuffer(int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glFramebufferTexture2D(int,int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glFrontFace(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGenBuffers(int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGenerateMipmap(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGenFramebuffers(int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGenRenderbuffers(int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGenTextures(int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: java.lang.String glGetActiveAttrib(int,int,java.nio.IntBuffer,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: java.lang.String glGetActiveUniform(int,int,java.nio.IntBuffer,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetAttachedShaders(int,int,java.nio.Buffer,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: int glGetAttribLocation(int,java.lang.String)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetBooleanv(int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetBufferParameteriv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: int glGetError()
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetFloatv(int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetFramebufferAttachmentParameteriv(int,int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetIntegerv(int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetProgramiv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: java.lang.String glGetProgramInfoLog(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetRenderbufferParameteriv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetShaderiv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: java.lang.String glGetShaderInfoLog(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetShaderPrecisionFormat(int,int,java.nio.IntBuffer,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetShaderSource(int,int,java.nio.Buffer,java.lang.String)
+com.badlogic.gdx.backends.android.AndroidGL20: java.lang.String glGetString(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetTexParameterfv(int,int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetTexParameteriv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetUniformfv(int,int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetUniformiv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: int glGetUniformLocation(int,java.lang.String)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetVertexAttribfv(int,int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetVertexAttribiv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glGetVertexAttribPointerv(int,int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glHint(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: boolean glIsBuffer(int)
+com.badlogic.gdx.backends.android.AndroidGL20: boolean glIsEnabled(int)
+com.badlogic.gdx.backends.android.AndroidGL20: boolean glIsFramebuffer(int)
+com.badlogic.gdx.backends.android.AndroidGL20: boolean glIsProgram(int)
+com.badlogic.gdx.backends.android.AndroidGL20: boolean glIsRenderbuffer(int)
+com.badlogic.gdx.backends.android.AndroidGL20: boolean glIsShader(int)
+com.badlogic.gdx.backends.android.AndroidGL20: boolean glIsTexture(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glLineWidth(float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glLinkProgram(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glPixelStorei(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glPolygonOffset(float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glReadPixels(int,int,int,int,int,int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glReleaseShaderCompiler()
+com.badlogic.gdx.backends.android.AndroidGL20: void glRenderbufferStorage(int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glSampleCoverage(float,boolean)
+com.badlogic.gdx.backends.android.AndroidGL20: void glScissor(int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glShaderBinary(int,java.nio.IntBuffer,int,java.nio.Buffer,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glShaderSource(int,java.lang.String)
+com.badlogic.gdx.backends.android.AndroidGL20: void glStencilFunc(int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glStencilFuncSeparate(int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glStencilMask(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glStencilMaskSeparate(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glStencilOp(int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glStencilOpSeparate(int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glTexImage2D(int,int,int,int,int,int,int,int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glTexParameterf(int,int,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glTexParameterfv(int,int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glTexParameteri(int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glTexParameteriv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glTexSubImage2D(int,int,int,int,int,int,int,int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform1f(int,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform1fv(int,int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform1i(int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform1iv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform2f(int,float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform2fv(int,int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform2i(int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform2iv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform3f(int,float,float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform3fv(int,int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform3i(int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform3iv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform4f(int,float,float,float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform4fv(int,int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform4i(int,int,int,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniform4iv(int,int,java.nio.IntBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniformMatrix2fv(int,int,boolean,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniformMatrix3fv(int,int,boolean,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUniformMatrix4fv(int,int,boolean,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glUseProgram(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glValidateProgram(int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttrib1f(int,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttrib1fv(int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttrib2f(int,float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttrib2fv(int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttrib3f(int,float,float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttrib3fv(int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttrib4f(int,float,float,float,float)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttrib4fv(int,java.nio.FloatBuffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttribPointer(int,int,int,boolean,int,java.nio.Buffer)
+com.badlogic.gdx.backends.android.AndroidGL20: void glVertexAttribPointer(int,int,int,boolean,int,int)
+com.badlogic.gdx.backends.android.AndroidGL20: void glViewport(int,int,int,int)
+com.badlogic.gdx.backends.android.surfaceview.GLBaseSurfaceView
+com.badlogic.gdx.backends.android.surfaceview.GLBaseSurfaceView: GLBaseSurfaceView(android.content.Context,android.util.AttributeSet)
+com.badlogic.gdx.graphics.Mesh$VertexDataType: com.badlogic.gdx.graphics.Mesh$VertexDataType[] values()
+com.badlogic.gdx.graphics.Mesh$VertexDataType: com.badlogic.gdx.graphics.Mesh$VertexDataType valueOf(java.lang.String)
+com.badlogic.gdx.graphics.Pixmap$Blending: com.badlogic.gdx.graphics.Pixmap$Blending[] values()
+com.badlogic.gdx.graphics.Pixmap$Blending: com.badlogic.gdx.graphics.Pixmap$Blending valueOf(java.lang.String)
+com.badlogic.gdx.graphics.Pixmap$Filter: com.badlogic.gdx.graphics.Pixmap$Filter[] values()
+com.badlogic.gdx.graphics.Pixmap$Filter: com.badlogic.gdx.graphics.Pixmap$Filter valueOf(java.lang.String)
+com.badlogic.gdx.graphics.Pixmap$Format: com.badlogic.gdx.graphics.Pixmap$Format[] values()
+com.badlogic.gdx.graphics.Pixmap$Format: com.badlogic.gdx.graphics.Pixmap$Format valueOf(java.lang.String)
+com.badlogic.gdx.graphics.Texture$TextureFilter: com.badlogic.gdx.graphics.Texture$TextureFilter[] values()
+com.badlogic.gdx.graphics.Texture$TextureFilter: com.badlogic.gdx.graphics.Texture$TextureFilter valueOf(java.lang.String)
+com.badlogic.gdx.graphics.Texture$TextureWrap: com.badlogic.gdx.graphics.Texture$TextureWrap[] values()
+com.badlogic.gdx.graphics.Texture$TextureWrap: com.badlogic.gdx.graphics.Texture$TextureWrap valueOf(java.lang.String)
+com.badlogic.gdx.graphics.TextureData$TextureDataType: com.badlogic.gdx.graphics.TextureData$TextureDataType[] values()
+com.badlogic.gdx.graphics.TextureData$TextureDataType: com.badlogic.gdx.graphics.TextureData$TextureDataType valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g2d.BitmapFont$HAlignment: com.badlogic.gdx.graphics.g2d.BitmapFont$HAlignment[] values()
+com.badlogic.gdx.graphics.g2d.BitmapFont$HAlignment: com.badlogic.gdx.graphics.g2d.BitmapFont$HAlignment valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: java.nio.ByteBuffer load(long[],byte[],int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: java.nio.ByteBuffer newPixmap(long[],int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void free(long)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void clear(long,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void setPixel(long,int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: int getPixel(long,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void drawLine(long,int,int,int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void drawRect(long,int,int,int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void drawCircle(long,int,int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void fillRect(long,int,int,int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void fillCircle(long,int,int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void drawPixmap(long,long,int,int,int,int,int,int,int,int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void setBlend(int)
+com.badlogic.gdx.graphics.g2d.Gdx2DPixmap: void setScale(int)
+com.badlogic.gdx.graphics.g2d.ParticleEmitter$SpawnEllipseSide: com.badlogic.gdx.graphics.g2d.ParticleEmitter$SpawnEllipseSide[] values()
+com.badlogic.gdx.graphics.g2d.ParticleEmitter$SpawnEllipseSide: com.badlogic.gdx.graphics.g2d.ParticleEmitter$SpawnEllipseSide valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g2d.ParticleEmitter$SpawnShape: com.badlogic.gdx.graphics.g2d.ParticleEmitter$SpawnShape[] values()
+com.badlogic.gdx.graphics.g2d.ParticleEmitter$SpawnShape: com.badlogic.gdx.graphics.g2d.ParticleEmitter$SpawnShape valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g3d.Animator$WrapMode: com.badlogic.gdx.graphics.g3d.Animator$WrapMode[] values()
+com.badlogic.gdx.graphics.g3d.Animator$WrapMode: com.badlogic.gdx.graphics.g3d.Animator$WrapMode valueOf(java.lang.String)
+com.badlogic.gdx.graphics.g3d.loaders.md5.MD5Jni
+com.badlogic.gdx.graphics.g3d.loaders.md5.MD5Jni: void calculateVertices(float[],float[],float[],float[],int,int,int)
+com.badlogic.gdx.graphics.glutils.ETC1
+com.badlogic.gdx.graphics.glutils.ETC1: int getCompressedDataSize(int,int)
+com.badlogic.gdx.graphics.glutils.ETC1: void formatHeader(java.nio.ByteBuffer,int,int,int)
+com.badlogic.gdx.graphics.glutils.ETC1: int getWidthPKM(java.nio.ByteBuffer,int)
+com.badlogic.gdx.graphics.glutils.ETC1: int getHeightPKM(java.nio.ByteBuffer,int)
+com.badlogic.gdx.graphics.glutils.ETC1: boolean isValidPKM(java.nio.ByteBuffer,int)
+com.badlogic.gdx.graphics.glutils.ETC1: void decodeImage(java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,int,int,int)
+com.badlogic.gdx.graphics.glutils.ETC1: java.nio.ByteBuffer encodeImage(java.nio.ByteBuffer,int,int,int,int)
+com.badlogic.gdx.graphics.glutils.ETC1: java.nio.ByteBuffer encodeImagePKM(java.nio.ByteBuffer,int,int,int,int)
+com.badlogic.gdx.graphics.glutils.ShapeRenderer$ShapeType: com.badlogic.gdx.graphics.glutils.ShapeRenderer$ShapeType[] values()
+com.badlogic.gdx.graphics.glutils.ShapeRenderer$ShapeType: com.badlogic.gdx.graphics.glutils.ShapeRenderer$ShapeType valueOf(java.lang.String)
+com.badlogic.gdx.math.Matrix4
+com.badlogic.gdx.math.Matrix4: void mul(float[],float[])
+com.badlogic.gdx.math.Matrix4: void mulVec(float[],float[])
+com.badlogic.gdx.math.Matrix4: void mulVec(float[],float[],int,int,int)
+com.badlogic.gdx.math.Matrix4: void prj(float[],float[])
+com.badlogic.gdx.math.Matrix4: void prj(float[],float[],int,int,int)
+com.badlogic.gdx.math.Matrix4: void rot(float[],float[])
+com.badlogic.gdx.math.Matrix4: void rot(float[],float[],int,int,int)
+com.badlogic.gdx.math.Matrix4: boolean inv(float[])
+com.badlogic.gdx.math.Matrix4: float det(float[])
+com.badlogic.gdx.math.Plane$PlaneSide: com.badlogic.gdx.math.Plane$PlaneSide[] values()
+com.badlogic.gdx.math.Plane$PlaneSide: com.badlogic.gdx.math.Plane$PlaneSide valueOf(java.lang.String)
+com.badlogic.gdx.physics.box2d.Body
+com.badlogic.gdx.physics.box2d.Body: long jniCreateFixture(long,long,float,float,float,boolean,short,short,short)
+com.badlogic.gdx.physics.box2d.Body: long jniCreateFixture(long,long,float)
+com.badlogic.gdx.physics.box2d.Body: void jniDestroyFixture(long,long)
+com.badlogic.gdx.physics.box2d.Body: void jniSetTransform(long,float,float,float)
+com.badlogic.gdx.physics.box2d.Body: void jniSetTransform(long,float,float,float,boolean)
+com.badlogic.gdx.physics.box2d.Body: void jniGetTransform(long,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniGetPosition(long,float[])
+com.badlogic.gdx.physics.box2d.Body: float jniGetAngle(long)
+com.badlogic.gdx.physics.box2d.Body: void jniGetWorldCenter(long,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniGetLocalCenter(long,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniSetLinearVelocity(long,float,float)
+com.badlogic.gdx.physics.box2d.Body: void jniGetLinearVelocity(long,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniSetAngularVelocity(long,float)
+com.badlogic.gdx.physics.box2d.Body: float jniGetAngularVelocity(long)
+com.badlogic.gdx.physics.box2d.Body: void jniApplyForce(long,float,float,float,float)
+com.badlogic.gdx.physics.box2d.Body: void jniApplyForceToCenter(long,float,float)
+com.badlogic.gdx.physics.box2d.Body: void jniApplyTorque(long,float)
+com.badlogic.gdx.physics.box2d.Body: void jniApplyLinearImpulse(long,float,float,float,float)
+com.badlogic.gdx.physics.box2d.Body: void jniApplyAngularImpulse(long,float)
+com.badlogic.gdx.physics.box2d.Body: float jniGetMass(long)
+com.badlogic.gdx.physics.box2d.Body: float jniGetInertia(long)
+com.badlogic.gdx.physics.box2d.Body: void jniGetMassData(long,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniSetMassData(long,float,float,float,float)
+com.badlogic.gdx.physics.box2d.Body: void jniResetMassData(long)
+com.badlogic.gdx.physics.box2d.Body: void jniGetWorldPoint(long,float,float,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniGetWorldVector(long,float,float,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniGetLocalPoint(long,float,float,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniGetLocalVector(long,float,float,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniGetLinearVelocityFromWorldPoint(long,float,float,float[])
+com.badlogic.gdx.physics.box2d.Body: void jniGetLinearVelocityFromLocalPoint(long,float,float,float[])
+com.badlogic.gdx.physics.box2d.Body: float jniGetLinearDamping(long)
+com.badlogic.gdx.physics.box2d.Body: void jniSetLinearDamping(long,float)
+com.badlogic.gdx.physics.box2d.Body: float jniGetAngularDamping(long)
+com.badlogic.gdx.physics.box2d.Body: void jniSetAngularDamping(long,float)
+com.badlogic.gdx.physics.box2d.Body: void jniSetType(long,int)
+com.badlogic.gdx.physics.box2d.Body: int jniGetType(long)
+com.badlogic.gdx.physics.box2d.Body: void jniSetBullet(long,boolean)
+com.badlogic.gdx.physics.box2d.Body: boolean jniIsBullet(long)
+com.badlogic.gdx.physics.box2d.Body: void jniSetSleepingAllowed(long,boolean)
+com.badlogic.gdx.physics.box2d.Body: boolean jniIsSleepingAllowed(long)
+com.badlogic.gdx.physics.box2d.Body: void jniSetAwake(long,boolean)
+com.badlogic.gdx.physics.box2d.Body: boolean jniIsAwake(long)
+com.badlogic.gdx.physics.box2d.Body: void jniSetActive(long,boolean)
+com.badlogic.gdx.physics.box2d.Body: boolean jniIsActive(long)
+com.badlogic.gdx.physics.box2d.Body: void jniSetFixedRotation(long,boolean)
+com.badlogic.gdx.physics.box2d.Body: boolean jniIsFixedRotation(long)
+com.badlogic.gdx.physics.box2d.Body: float jniGetGravityScale(long)
+com.badlogic.gdx.physics.box2d.Body: void jniSetGravityScale(long,float)
+com.badlogic.gdx.physics.box2d.BodyDef$BodyType: com.badlogic.gdx.physics.box2d.BodyDef$BodyType[] values()
+com.badlogic.gdx.physics.box2d.BodyDef$BodyType: com.badlogic.gdx.physics.box2d.BodyDef$BodyType valueOf(java.lang.String)
+com.badlogic.gdx.physics.box2d.ChainShape
+com.badlogic.gdx.physics.box2d.ChainShape: long newChainShape()
+com.badlogic.gdx.physics.box2d.ChainShape: void jniCreateLoop(long,float[],int)
+com.badlogic.gdx.physics.box2d.ChainShape: void jniCreateChain(long,float[],int)
+com.badlogic.gdx.physics.box2d.ChainShape: void jniSetPrevVertex(long,float,float)
+com.badlogic.gdx.physics.box2d.ChainShape: void jniSetNextVertex(long,float,float)
+com.badlogic.gdx.physics.box2d.ChainShape: int jniGetVertexCount(long)
+com.badlogic.gdx.physics.box2d.ChainShape: void jniGetVertex(long,int,float[])
+com.badlogic.gdx.physics.box2d.CircleShape
+com.badlogic.gdx.physics.box2d.CircleShape: long newCircleShape()
+com.badlogic.gdx.physics.box2d.CircleShape: void jniGetPosition(long,float[])
+com.badlogic.gdx.physics.box2d.CircleShape: void jniSetPosition(long,float,float)
+com.badlogic.gdx.physics.box2d.Contact
+com.badlogic.gdx.physics.box2d.Contact: int jniGetWorldManifold(long,float[])
+com.badlogic.gdx.physics.box2d.Contact: boolean jniIsTouching(long)
+com.badlogic.gdx.physics.box2d.Contact: void jniSetEnabled(long,boolean)
+com.badlogic.gdx.physics.box2d.Contact: boolean jniIsEnabled(long)
+com.badlogic.gdx.physics.box2d.Contact: long jniGetFixtureA(long)
+com.badlogic.gdx.physics.box2d.Contact: long jniGetFixtureB(long)
+com.badlogic.gdx.physics.box2d.Contact: int jniGetChildIndexA(long)
+com.badlogic.gdx.physics.box2d.Contact: int jniGetChildIndexB(long)
+com.badlogic.gdx.physics.box2d.Contact: void jniSetFriction(long,float)
+com.badlogic.gdx.physics.box2d.Contact: float jniGetFriction(long)
+com.badlogic.gdx.physics.box2d.Contact: void jniResetFriction(long)
+com.badlogic.gdx.physics.box2d.Contact: void jniSetRestitution(long,float)
+com.badlogic.gdx.physics.box2d.Contact: float jniGetRestitution(long)
+com.badlogic.gdx.physics.box2d.Contact: void jniResetRestitution(long)
+com.badlogic.gdx.physics.box2d.ContactImpulse
+com.badlogic.gdx.physics.box2d.ContactImpulse: void jniGetNormalImpulses(long,float[])
+com.badlogic.gdx.physics.box2d.ContactImpulse: void jniGetTangentImpulses(long,float[])
+com.badlogic.gdx.physics.box2d.ContactImpulse: int jniGetCount(long)
+com.badlogic.gdx.physics.box2d.EdgeShape
+com.badlogic.gdx.physics.box2d.EdgeShape: long newEdgeShape()
+com.badlogic.gdx.physics.box2d.EdgeShape: void jniSet(long,float,float,float,float)
+com.badlogic.gdx.physics.box2d.EdgeShape: void jniGetVertex1(long,float[])
+com.badlogic.gdx.physics.box2d.EdgeShape: void jniGetVertex2(long,float[])
+com.badlogic.gdx.physics.box2d.Fixture
+com.badlogic.gdx.physics.box2d.Fixture: int jniGetType(long)
+com.badlogic.gdx.physics.box2d.Fixture: long jniGetShape(long)
+com.badlogic.gdx.physics.box2d.Fixture: void jniSetSensor(long,boolean)
+com.badlogic.gdx.physics.box2d.Fixture: boolean jniIsSensor(long)
+com.badlogic.gdx.physics.box2d.Fixture: void jniSetFilterData(long,short,short,short)
+com.badlogic.gdx.physics.box2d.Fixture: void jniGetFilterData(long,short[])
+com.badlogic.gdx.physics.box2d.Fixture: void jniRefilter(long)
+com.badlogic.gdx.physics.box2d.Fixture: boolean jniTestPoint(long,float,float)
+com.badlogic.gdx.physics.box2d.Fixture: void jniSetDensity(long,float)
+com.badlogic.gdx.physics.box2d.Fixture: float jniGetDensity(long)
+com.badlogic.gdx.physics.box2d.Fixture: float jniGetFriction(long)
+com.badlogic.gdx.physics.box2d.Fixture: void jniSetFriction(long,float)
+com.badlogic.gdx.physics.box2d.Fixture: float jniGetRestitution(long)
+com.badlogic.gdx.physics.box2d.Fixture: void jniSetRestitution(long,float)
+com.badlogic.gdx.physics.box2d.Joint
+com.badlogic.gdx.physics.box2d.Joint: int jniGetType(long)
+com.badlogic.gdx.physics.box2d.Joint: long jniGetBodyA(long)
+com.badlogic.gdx.physics.box2d.Joint: long jniGetBodyB(long)
+com.badlogic.gdx.physics.box2d.Joint: void jniGetAnchorA(long,float[])
+com.badlogic.gdx.physics.box2d.Joint: void jniGetAnchorB(long,float[])
+com.badlogic.gdx.physics.box2d.Joint: void jniGetReactionForce(long,float,float[])
+com.badlogic.gdx.physics.box2d.Joint: float jniGetReactionTorque(long,float)
+com.badlogic.gdx.physics.box2d.Joint: boolean jniIsActive(long)
+com.badlogic.gdx.physics.box2d.JointDef$JointType: com.badlogic.gdx.physics.box2d.JointDef$JointType[] values()
+com.badlogic.gdx.physics.box2d.JointDef$JointType: com.badlogic.gdx.physics.box2d.JointDef$JointType valueOf(java.lang.String)
+com.badlogic.gdx.physics.box2d.Manifold
+com.badlogic.gdx.physics.box2d.Manifold: int jniGetType(long)
+com.badlogic.gdx.physics.box2d.Manifold: int jniGetPointCount(long)
+com.badlogic.gdx.physics.box2d.Manifold: void jniGetLocalNormal(long,float[])
+com.badlogic.gdx.physics.box2d.Manifold: void jniGetLocalPoint(long,float[])
+com.badlogic.gdx.physics.box2d.Manifold: int jniGetPoint(long,float[],int)
+com.badlogic.gdx.physics.box2d.Manifold$ManifoldType: com.badlogic.gdx.physics.box2d.Manifold$ManifoldType[] values()
+com.badlogic.gdx.physics.box2d.Manifold$ManifoldType: com.badlogic.gdx.physics.box2d.Manifold$ManifoldType valueOf(java.lang.String)
+com.badlogic.gdx.physics.box2d.PolygonShape
+com.badlogic.gdx.physics.box2d.PolygonShape: long newPolygonShape()
+com.badlogic.gdx.physics.box2d.PolygonShape: void jniSet(long,float[],int,int)
+com.badlogic.gdx.physics.box2d.PolygonShape: void jniSetAsBox(long,float,float)
+com.badlogic.gdx.physics.box2d.PolygonShape: void jniSetAsBox(long,float,float,float,float,float)
+com.badlogic.gdx.physics.box2d.PolygonShape: int jniGetVertexCount(long)
+com.badlogic.gdx.physics.box2d.PolygonShape: void jniGetVertex(long,int,float[])
+com.badlogic.gdx.physics.box2d.Shape
+com.badlogic.gdx.physics.box2d.Shape: float jniGetRadius(long)
+com.badlogic.gdx.physics.box2d.Shape: void jniSetRadius(long,float)
+com.badlogic.gdx.physics.box2d.Shape: void jniDispose(long)
+com.badlogic.gdx.physics.box2d.Shape: int jniGetType(long)
+com.badlogic.gdx.physics.box2d.Shape: int jniGetChildCount(long)
+com.badlogic.gdx.physics.box2d.Shape$Type: com.badlogic.gdx.physics.box2d.Shape$Type[] values()
+com.badlogic.gdx.physics.box2d.Shape$Type: com.badlogic.gdx.physics.box2d.Shape$Type valueOf(java.lang.String)
+com.badlogic.gdx.physics.box2d.World
+com.badlogic.gdx.physics.box2d.World: long newWorld(float,float,boolean)
+com.badlogic.gdx.physics.box2d.World: void setUseDefaultContactFilter(boolean)
+com.badlogic.gdx.physics.box2d.World: long jniCreateBody(long,int,float,float,float,float,float,float,float,float,boolean,boolean,boolean,boolean,boolean,float)
+com.badlogic.gdx.physics.box2d.World: void jniDestroyBody(long,long)
+com.badlogic.gdx.physics.box2d.World: long jniCreateWheelJoint(long,long,long,boolean,float,float,float,float,float,float,boolean,float,float,float,float)
+com.badlogic.gdx.physics.box2d.World: long jniCreateRopeJoint(long,long,long,boolean,float,float,float,float,float)
+com.badlogic.gdx.physics.box2d.World: long jniCreateDistanceJoint(long,long,long,boolean,float,float,float,float,float,float,float)
+com.badlogic.gdx.physics.box2d.World: long jniCreateFrictionJoint(long,long,long,boolean,float,float,float,float,float,float)
+com.badlogic.gdx.physics.box2d.World: long jniCreateGearJoint(long,long,long,boolean,long,long,float)
+com.badlogic.gdx.physics.box2d.World: long jniCreateMouseJoint(long,long,long,boolean,float,float,float,float,float)
+com.badlogic.gdx.physics.box2d.World: long jniCreatePrismaticJoint(long,long,long,boolean,float,float,float,float,float,float,float,boolean,float,float,boolean,float,float)
+com.badlogic.gdx.physics.box2d.World: long jniCreatePulleyJoint(long,long,long,boolean,float,float,float,float,float,float,float,float,float,float,float)
+com.badlogic.gdx.physics.box2d.World: long jniCreateRevoluteJoint(long,long,long,boolean,float,float,float,float,float,boolean,float,float,boolean,float,float)
+com.badlogic.gdx.physics.box2d.World: long jniCreateWeldJoint(long,long,long,boolean,float,float,float,float,float)
+com.badlogic.gdx.physics.box2d.World: void jniDestroyJoint(long,long)
+com.badlogic.gdx.physics.box2d.World: void jniStep(long,float,int,int)
+com.badlogic.gdx.physics.box2d.World: void jniClearForces(long)
+com.badlogic.gdx.physics.box2d.World: void jniSetWarmStarting(long,boolean)
+com.badlogic.gdx.physics.box2d.World: void jniSetContiousPhysics(long,boolean)
+com.badlogic.gdx.physics.box2d.World: int jniGetProxyCount(long)
+com.badlogic.gdx.physics.box2d.World: int jniGetBodyCount(long)
+com.badlogic.gdx.physics.box2d.World: int jniGetJointcount(long)
+com.badlogic.gdx.physics.box2d.World: int jniGetContactCount(long)
+com.badlogic.gdx.physics.box2d.World: void jniSetGravity(long,float,float)
+com.badlogic.gdx.physics.box2d.World: void jniGetGravity(long,float[])
+com.badlogic.gdx.physics.box2d.World: boolean jniIsLocked(long)
+com.badlogic.gdx.physics.box2d.World: void jniSetAutoClearForces(long,boolean)
+com.badlogic.gdx.physics.box2d.World: boolean jniGetAutoClearForces(long)
+com.badlogic.gdx.physics.box2d.World: void jniQueryAABB(long,float,float,float,float)
+com.badlogic.gdx.physics.box2d.World: void jniGetContactList(long,long[])
+com.badlogic.gdx.physics.box2d.World: void jniDispose(long)
+com.badlogic.gdx.physics.box2d.World: void setVelocityThreshold(float)
+com.badlogic.gdx.physics.box2d.World: float getVelocityThreshold()
+com.badlogic.gdx.physics.box2d.World: void jniRayCast(long,float,float,float,float)
+com.badlogic.gdx.physics.box2d.joints.DistanceJoint
+com.badlogic.gdx.physics.box2d.joints.DistanceJoint: void jniSetLength(long,float)
+com.badlogic.gdx.physics.box2d.joints.DistanceJoint: float jniGetLength(long)
+com.badlogic.gdx.physics.box2d.joints.DistanceJoint: void jniSetFrequency(long,float)
+com.badlogic.gdx.physics.box2d.joints.DistanceJoint: float jniGetFrequency(long)
+com.badlogic.gdx.physics.box2d.joints.DistanceJoint: void jniSetDampingRatio(long,float)
+com.badlogic.gdx.physics.box2d.joints.DistanceJoint: float jniGetDampingRatio(long)
+com.badlogic.gdx.physics.box2d.joints.FrictionJoint
+com.badlogic.gdx.physics.box2d.joints.FrictionJoint: void jniSetMaxForce(long,float)
+com.badlogic.gdx.physics.box2d.joints.FrictionJoint: float jniGetMaxForce(long)
+com.badlogic.gdx.physics.box2d.joints.FrictionJoint: void jniSetMaxTorque(long,float)
+com.badlogic.gdx.physics.box2d.joints.FrictionJoint: float jniGetMaxTorque(long)
+com.badlogic.gdx.physics.box2d.joints.GearJoint
+com.badlogic.gdx.physics.box2d.joints.GearJoint: void jniSetRatio(long,float)
+com.badlogic.gdx.physics.box2d.joints.GearJoint: float jniGetRatio(long)
+com.badlogic.gdx.physics.box2d.joints.MouseJoint
+com.badlogic.gdx.physics.box2d.joints.MouseJoint: void jniSetTarget(long,float,float)
+com.badlogic.gdx.physics.box2d.joints.MouseJoint: void jniGetTarget(long,float[])
+com.badlogic.gdx.physics.box2d.joints.MouseJoint: void jniSetMaxForce(long,float)
+com.badlogic.gdx.physics.box2d.joints.MouseJoint: float jniGetMaxForce(long)
+com.badlogic.gdx.physics.box2d.joints.MouseJoint: void jniSetFrequency(long,float)
+com.badlogic.gdx.physics.box2d.joints.MouseJoint: float jniGetFrequency(long)
+com.badlogic.gdx.physics.box2d.joints.MouseJoint: void jniSetDampingRatio(long,float)
+com.badlogic.gdx.physics.box2d.joints.MouseJoint: float jniGetDampingRatio(long)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: float jniGetJointTranslation(long)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: float jniGetJointSpeed(long)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: boolean jniIsLimitEnabled(long)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: void jniEnableLimit(long,boolean)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: float jniGetLowerLimit(long)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: float jniGetUpperLimit(long)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: void jniSetLimits(long,float,float)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: boolean jniIsMotorEnabled(long)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: void jniEnableMotor(long,boolean)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: void jniSetMotorSpeed(long,float)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: float jniGetMotorSpeed(long)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: void jniSetMaxMotorForce(long,float)
+com.badlogic.gdx.physics.box2d.joints.PrismaticJoint: float jniGetMotorForce(long,float)
+com.badlogic.gdx.physics.box2d.joints.PulleyJoint
+com.badlogic.gdx.physics.box2d.joints.PulleyJoint: void jniGetGroundAnchorA(long,float[])
+com.badlogic.gdx.physics.box2d.joints.PulleyJoint: void jniGetGroundAnchorB(long,float[])
+com.badlogic.gdx.physics.box2d.joints.PulleyJoint: float jniGetLength1(long)
+com.badlogic.gdx.physics.box2d.joints.PulleyJoint: float jniGetLength2(long)
+com.badlogic.gdx.physics.box2d.joints.PulleyJoint: float jniGetRatio(long)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: float jniGetJointAngle(long)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: float jniGetJointSpeed(long)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: boolean jniIsLimitEnabled(long)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: void jniEnableLimit(long,boolean)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: float jniGetLowerLimit(long)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: float jniGetUpperLimit(long)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: void jniSetLimits(long,float,float)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: boolean jniIsMotorEnabled(long)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: void jniEnableMotor(long,boolean)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: void jniSetMotorSpeed(long,float)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: float jniGetMotorSpeed(long)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: void jniSetMaxMotorTorque(long,float)
+com.badlogic.gdx.physics.box2d.joints.RevoluteJoint: float jniGetMotorTorque(long,float)
+com.badlogic.gdx.physics.box2d.joints.RopeJoint
+com.badlogic.gdx.physics.box2d.joints.RopeJoint: float jniGetMaxLength(long)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: float jniGetJointTranslation(long)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: float jniGetJointSpeed(long)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: boolean jniIsMotorEnabled(long)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: void jniEnableMotor(long,boolean)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: void jniSetMotorSpeed(long,float)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: float jniGetMotorSpeed(long)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: void jniSetMaxMotorTorque(long,float)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: float jniGetMaxMotorTorque(long)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: float jniGetMotorTorque(long,float)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: void jniSetSpringFrequencyHz(long,float)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: float jniGetSpringFrequencyHz(long)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: void jniSetSpringDampingRatio(long,float)
+com.badlogic.gdx.physics.box2d.joints.WheelJoint: float jniGetSpringDampingRatio(long)
+com.badlogic.gdx.scenes.scene2d.InputEvent$Type: com.badlogic.gdx.scenes.scene2d.InputEvent$Type[] values()
+com.badlogic.gdx.scenes.scene2d.InputEvent$Type: com.badlogic.gdx.scenes.scene2d.InputEvent$Type valueOf(java.lang.String)
+com.badlogic.gdx.scenes.scene2d.Touchable: com.badlogic.gdx.scenes.scene2d.Touchable[] values()
+com.badlogic.gdx.scenes.scene2d.Touchable: com.badlogic.gdx.scenes.scene2d.Touchable valueOf(java.lang.String)
+com.badlogic.gdx.scenes.scene2d.utils.FocusListener$FocusEvent$Type: com.badlogic.gdx.scenes.scene2d.utils.FocusListener$FocusEvent$Type[] values()
+com.badlogic.gdx.scenes.scene2d.utils.FocusListener$FocusEvent$Type: com.badlogic.gdx.scenes.scene2d.utils.FocusListener$FocusEvent$Type valueOf(java.lang.String)
+com.badlogic.gdx.utils.BufferUtils
+com.badlogic.gdx.utils.BufferUtils: void freeMemory(java.nio.ByteBuffer)
+com.badlogic.gdx.utils.BufferUtils: java.nio.ByteBuffer newDisposableByteBuffer(int)
+com.badlogic.gdx.utils.BufferUtils: void clear(java.nio.ByteBuffer,int)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(float[],java.nio.Buffer,int,int)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(byte[],int,java.nio.Buffer,int,int)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(char[],int,java.nio.Buffer,int,int)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(short[],int,java.nio.Buffer,int,int)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(int[],int,java.nio.Buffer,int,int)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(long[],int,java.nio.Buffer,int,int)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(float[],int,java.nio.Buffer,int,int)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(double[],int,java.nio.Buffer,int,int)
+com.badlogic.gdx.utils.BufferUtils: void copyJni(java.nio.Buffer,int,java.nio.Buffer,int,int)
+com.badlogic.gdx.utils.JsonWriter$OutputType: com.badlogic.gdx.utils.JsonWriter$OutputType[] values()
+com.badlogic.gdx.utils.JsonWriter$OutputType: com.badlogic.gdx.utils.JsonWriter$OutputType valueOf(java.lang.String)
+com.badlogic.gdx.utils.Scaling: com.badlogic.gdx.utils.Scaling[] values()
+com.badlogic.gdx.utils.Scaling: com.badlogic.gdx.utils.Scaling valueOf(java.lang.String)
+com.esotericsoftware.tablelayout.BaseTableLayout$Debug: com.esotericsoftware.tablelayout.BaseTableLayout$Debug[] values()
+com.esotericsoftware.tablelayout.BaseTableLayout$Debug: com.esotericsoftware.tablelayout.BaseTableLayout$Debug valueOf(java.lang.String)
+com.google.ads.Ad
+com.google.ads.Ad: boolean isReady()
+com.google.ads.Ad: void loadAd(com.google.ads.AdRequest)
+com.google.ads.Ad: void setAdListener(com.google.ads.AdListener)
+com.google.ads.Ad: void stopLoading()
+com.google.ads.AdActivity
+com.google.ads.AdActivity: java.lang.String BASE_URL_PARAM
+com.google.ads.AdActivity: java.lang.String HTML_PARAM
+com.google.ads.AdActivity: java.lang.String URL_PARAM
+com.google.ads.AdActivity: java.lang.String INTENT_ACTION_PARAM
+com.google.ads.AdActivity: java.lang.String TYPE_PARAM
+com.google.ads.AdActivity: java.lang.String ORIENTATION_PARAM
+com.google.ads.AdActivity: com.google.ads.internal.a a
+com.google.ads.AdActivity: java.lang.Object b
+com.google.ads.AdActivity: com.google.ads.AdActivity c
+com.google.ads.AdActivity: com.google.ads.internal.d d
+com.google.ads.AdActivity: com.google.ads.AdActivity e
+com.google.ads.AdActivity: com.google.ads.AdActivity f
+com.google.ads.AdActivity: com.google.ads.AdActivity$StaticMethodWrapper g
+com.google.ads.AdActivity: com.google.ads.internal.AdWebView h
+com.google.ads.AdActivity: android.view.ViewGroup i
+com.google.ads.AdActivity: boolean j
+com.google.ads.AdActivity: long k
+com.google.ads.AdActivity: android.widget.RelativeLayout l
+com.google.ads.AdActivity: com.google.ads.AdActivity m
+com.google.ads.AdActivity: boolean n
+com.google.ads.AdActivity: boolean o
+com.google.ads.AdActivity: boolean p
+com.google.ads.AdActivity: boolean q
+com.google.ads.AdActivity: com.google.ads.internal.AdVideoView r
+com.google.ads.AdActivity: AdActivity()
+com.google.ads.AdActivity: android.view.View a(int)
+com.google.ads.AdActivity: void a(java.lang.String)
+com.google.ads.AdActivity: void a(java.lang.String,java.lang.Throwable)
+com.google.ads.AdActivity: com.google.ads.internal.AdVideoView getAdVideoView()
+com.google.ads.AdActivity: com.google.ads.internal.AdWebView getOpeningAdWebView()
+com.google.ads.AdActivity: boolean isShowing()
+com.google.ads.AdActivity: void launchAdActivity(com.google.ads.internal.d,com.google.ads.internal.e)
+com.google.ads.AdActivity: void a(java.util.HashMap,com.google.ads.internal.d)
+com.google.ads.AdActivity: void b(java.util.HashMap,com.google.ads.internal.d)
+com.google.ads.AdActivity: void a(com.google.ads.internal.d)
+com.google.ads.AdActivity: com.google.ads.internal.AdVideoView a(android.app.Activity)
+com.google.ads.AdActivity: void moveAdVideoView(int,int,int,int)
+com.google.ads.AdActivity: void newAdVideoView(int,int,int,int)
+com.google.ads.AdActivity: android.widget.RelativeLayout$LayoutParams a(int,int,int,int)
+com.google.ads.AdActivity: void onClick(android.view.View)
+com.google.ads.AdActivity: void onCreate(android.os.Bundle)
+com.google.ads.AdActivity: void a(com.google.ads.internal.AdWebView,boolean,int,boolean)
+com.google.ads.AdActivity: void onDestroy()
+com.google.ads.AdActivity: void onPause()
+com.google.ads.AdActivity: void d()
+com.google.ads.AdActivity: void onWindowFocusChanged(boolean)
+com.google.ads.AdActivity: void onActivityResult(int,int,android.content.Intent)
+com.google.ads.AdActivity$StaticMethodWrapper
+com.google.ads.AdActivity$StaticMethodWrapper: AdActivity$StaticMethodWrapper()
+com.google.ads.AdActivity$StaticMethodWrapper: boolean isShowing()
+com.google.ads.AdActivity$StaticMethodWrapper: void launchAdActivity(com.google.ads.internal.d,com.google.ads.internal.e)
+com.google.ads.AdListener
+com.google.ads.AdListener: void onReceiveAd(com.google.ads.Ad)
+com.google.ads.AdListener: void onFailedToReceiveAd(com.google.ads.Ad,com.google.ads.AdRequest$ErrorCode)
+com.google.ads.AdListener: void onPresentScreen(com.google.ads.Ad)
+com.google.ads.AdListener: void onDismissScreen(com.google.ads.Ad)
+com.google.ads.AdListener: void onLeaveApplication(com.google.ads.Ad)
+com.google.ads.AdRequest
+com.google.ads.AdRequest: java.lang.String VERSION
+com.google.ads.AdRequest: java.text.SimpleDateFormat a
+com.google.ads.AdRequest: java.lang.reflect.Method b
+com.google.ads.AdRequest: java.lang.reflect.Method c
+com.google.ads.AdRequest: com.google.ads.AdRequest$Gender d
+com.google.ads.AdRequest: java.util.Date e
+com.google.ads.AdRequest: java.util.Set f
+com.google.ads.AdRequest: java.util.Map g
+com.google.ads.AdRequest: java.util.Map h
+com.google.ads.AdRequest: android.location.Location i
+com.google.ads.AdRequest: boolean j
+com.google.ads.AdRequest: boolean k
+com.google.ads.AdRequest: java.lang.String LOGTAG
+com.google.ads.AdRequest: java.lang.String TEST_EMULATOR
+com.google.ads.AdRequest: java.util.Set l
+com.google.ads.AdRequest: AdRequest()
+com.google.ads.AdRequest: com.google.ads.AdRequest setGender(com.google.ads.AdRequest$Gender)
+com.google.ads.AdRequest: com.google.ads.AdRequest$Gender getGender()
+com.google.ads.AdRequest: com.google.ads.AdRequest setBirthday(java.lang.String)
+com.google.ads.AdRequest: com.google.ads.AdRequest setBirthday(java.util.Date)
+com.google.ads.AdRequest: com.google.ads.AdRequest setBirthday(java.util.Calendar)
+com.google.ads.AdRequest: java.util.Date getBirthday()
+com.google.ads.AdRequest: com.google.ads.AdRequest clearBirthday()
+com.google.ads.AdRequest: com.google.ads.AdRequest setPlusOneOptOut(boolean)
+com.google.ads.AdRequest: boolean getPlusOneOptOut()
+com.google.ads.AdRequest: com.google.ads.AdRequest setKeywords(java.util.Set)
+com.google.ads.AdRequest: com.google.ads.AdRequest addKeyword(java.lang.String)
+com.google.ads.AdRequest: com.google.ads.AdRequest addKeywords(java.util.Set)
+com.google.ads.AdRequest: java.util.Set getKeywords()
+com.google.ads.AdRequest: com.google.ads.mediation.admob.AdMobAdapterExtras a()
+com.google.ads.AdRequest: com.google.ads.AdRequest setExtras(java.util.Map)
+com.google.ads.AdRequest: com.google.ads.AdRequest addExtra(java.lang.String,java.lang.Object)
+com.google.ads.AdRequest: com.google.ads.AdRequest setNetworkExtras(com.google.ads.mediation.NetworkExtras)
+com.google.ads.AdRequest: com.google.ads.AdRequest removeNetworkExtras(java.lang.Class)
+com.google.ads.AdRequest: java.lang.Object getNetworkExtras(java.lang.Class)
+com.google.ads.AdRequest: com.google.ads.AdRequest setMediationExtras(java.util.Map)
+com.google.ads.AdRequest: com.google.ads.AdRequest addMediationExtra(java.lang.String,java.lang.Object)
+com.google.ads.AdRequest: com.google.ads.AdRequest setLocation(android.location.Location)
+com.google.ads.AdRequest: android.location.Location getLocation()
+com.google.ads.AdRequest: com.google.ads.AdRequest setTesting(boolean)
+com.google.ads.AdRequest: java.util.Map getRequestMap(android.content.Context)
+com.google.ads.AdRequest: com.google.ads.AdRequest addTestDevice(java.lang.String)
+com.google.ads.AdRequest: com.google.ads.AdRequest setTestDevices(java.util.Set)
+com.google.ads.AdRequest: boolean isTestDevice(android.content.Context)
+com.google.ads.AdRequest$ErrorCode
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode INVALID_REQUEST
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode NO_FILL
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode NETWORK_ERROR
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode INTERNAL_ERROR
+com.google.ads.AdRequest$ErrorCode: java.lang.String a
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode[] b
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode[] values()
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode valueOf(java.lang.String)
+com.google.ads.AdRequest$ErrorCode: AdRequest$ErrorCode(java.lang.String,int,java.lang.String)
+com.google.ads.AdRequest$ErrorCode: java.lang.String toString()
+com.google.ads.AdRequest$Gender
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender UNKNOWN
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender MALE
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender FEMALE
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender[] a
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender[] values()
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender valueOf(java.lang.String)
+com.google.ads.AdRequest$Gender: AdRequest$Gender(java.lang.String,int)
+com.google.ads.AdSize
+com.google.ads.AdSize: int FULL_WIDTH
+com.google.ads.AdSize: int AUTO_HEIGHT
+com.google.ads.AdSize: int LANDSCAPE_AD_HEIGHT
+com.google.ads.AdSize: int PORTRAIT_AD_HEIGHT
+com.google.ads.AdSize: int LARGE_AD_HEIGHT
+com.google.ads.AdSize: com.google.ads.AdSize SMART_BANNER
+com.google.ads.AdSize: com.google.ads.AdSize BANNER
+com.google.ads.AdSize: com.google.ads.AdSize IAB_MRECT
+com.google.ads.AdSize: com.google.ads.AdSize IAB_BANNER
+com.google.ads.AdSize: com.google.ads.AdSize IAB_LEADERBOARD
+com.google.ads.AdSize: com.google.ads.AdSize IAB_WIDE_SKYSCRAPER
+com.google.ads.AdSize: int a
+com.google.ads.AdSize: int b
+com.google.ads.AdSize: boolean c
+com.google.ads.AdSize: boolean d
+com.google.ads.AdSize: boolean e
+com.google.ads.AdSize: java.lang.String f
+com.google.ads.AdSize: AdSize(int,int)
+com.google.ads.AdSize: AdSize(int,int,java.lang.String)
+com.google.ads.AdSize: com.google.ads.AdSize createAdSize(com.google.ads.AdSize,android.content.Context)
+com.google.ads.AdSize: boolean equals(java.lang.Object)
+com.google.ads.AdSize: int hashCode()
+com.google.ads.AdSize: int getWidth()
+com.google.ads.AdSize: int getHeight()
+com.google.ads.AdSize: boolean a()
+com.google.ads.AdSize: boolean isFullWidth()
+com.google.ads.AdSize: boolean isAutoHeight()
+com.google.ads.AdSize: boolean isCustomAdSize()
+com.google.ads.AdSize: java.lang.String toString()
+com.google.ads.AdSize: int getWidthInPixels(android.content.Context)
+com.google.ads.AdSize: int getHeightInPixels(android.content.Context)
+com.google.ads.AdSize: boolean isSizeAppropriate(int,int)
+com.google.ads.AdSize: com.google.ads.AdSize findBestSize(com.google.ads.AdSize[])
+com.google.ads.AdSize: int a(android.content.Context)
+com.google.ads.AdSize: int b(android.content.Context)
+com.google.ads.AdView
+com.google.ads.AdView: com.google.ads.m a
+com.google.ads.AdView: com.google.ads.internal.d b
+com.google.ads.AdView: AdView(android.app.Activity,com.google.ads.AdSize,java.lang.String)
+com.google.ads.AdView: AdView(android.app.Activity,com.google.ads.AdSize[],java.lang.String)
+com.google.ads.AdView: AdView(android.content.Context,android.util.AttributeSet)
+com.google.ads.AdView: AdView(android.content.Context,android.util.AttributeSet,int)
+com.google.ads.AdView: int a(android.content.Context,int)
+com.google.ads.AdView: boolean a(android.content.Context,com.google.ads.AdSize,android.util.AttributeSet)
+com.google.ads.AdView: boolean b(android.content.Context,com.google.ads.AdSize,android.util.AttributeSet)
+com.google.ads.AdView: void destroy()
+com.google.ads.AdView: void a(android.content.Context,java.lang.String,com.google.ads.AdSize,android.util.AttributeSet)
+com.google.ads.AdView: com.google.ads.AdSize[] a(java.lang.String)
+com.google.ads.AdView: void a(android.content.Context,android.util.AttributeSet)
+com.google.ads.AdView: java.lang.String a(java.lang.String,android.content.Context,android.util.AttributeSet,boolean,boolean)
+com.google.ads.AdView: java.util.Set b(java.lang.String,android.content.Context,android.util.AttributeSet,boolean,boolean)
+com.google.ads.AdView: boolean a(java.lang.String,android.util.AttributeSet)
+com.google.ads.AdView: void a(android.app.Activity,com.google.ads.AdSize,java.lang.String)
+com.google.ads.AdView: boolean isReady()
+com.google.ads.AdView: boolean isRefreshing()
+com.google.ads.AdView: void loadAd(com.google.ads.AdRequest)
+com.google.ads.AdView: void setAdListener(com.google.ads.AdListener)
+com.google.ads.AdView: void setAppEventListener(com.google.ads.AppEventListener)
+com.google.ads.AdView: void setSupportedAdSizes(com.google.ads.AdSize[])
+com.google.ads.AdView: void a(com.google.ads.AdSize[])
+com.google.ads.AdView: void stopLoading()
+com.google.ads.AppEventListener
+com.google.ads.AppEventListener: void onAppEvent(java.lang.String,java.lang.String)
+com.google.ads.InterstitialAd
+com.google.ads.InterstitialAd: com.google.ads.internal.d a
+com.google.ads.InterstitialAd: com.google.ads.m b
+com.google.ads.InterstitialAd: InterstitialAd(android.app.Activity,java.lang.String)
+com.google.ads.InterstitialAd: InterstitialAd(android.app.Activity,java.lang.String,boolean)
+com.google.ads.InterstitialAd: boolean isReady()
+com.google.ads.InterstitialAd: void loadAd(com.google.ads.AdRequest)
+com.google.ads.InterstitialAd: void show()
+com.google.ads.InterstitialAd: void setAdListener(com.google.ads.AdListener)
+com.google.ads.InterstitialAd: void setAppEventListener(com.google.ads.AppEventListener)
+com.google.ads.InterstitialAd: void stopLoading()
+com.google.ads.a
+com.google.ads.a: java.lang.String a
+com.google.ads.a: java.lang.String b
+com.google.ads.a: java.util.List c
+com.google.ads.a: java.util.HashMap d
+com.google.ads.a: a(java.lang.String,java.lang.String,java.util.List,java.util.HashMap)
+com.google.ads.a: java.lang.String a()
+com.google.ads.a: java.lang.String b()
+com.google.ads.a: java.util.List c()
+com.google.ads.a: java.util.HashMap d()
+com.google.ads.aa
+com.google.ads.aa: com.google.ads.internal.a a
+com.google.ads.aa: aa()
+com.google.ads.aa: int a(java.util.HashMap,java.lang.String,int,android.util.DisplayMetrics)
+com.google.ads.aa: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.ab
+com.google.ads.ab: android.content.Context a
+com.google.ads.ab: java.lang.String b
+com.google.ads.ab: ab(java.lang.String,android.content.Context)
+com.google.ads.ab: java.net.HttpURLConnection a(java.net.URL)
+com.google.ads.ab: void run()
+com.google.ads.ac
+com.google.ads.ac: java.lang.ref.WeakReference a
+com.google.ads.ac: ac(com.google.ads.internal.d)
+com.google.ads.ac: void run()
+com.google.ads.ae
+com.google.ads.ae: android.net.Uri a
+com.google.ads.ae: android.net.Uri b
+com.google.ads.ae: java.lang.String[] c
+com.google.ads.ae: java.lang.String[] d
+com.google.ads.af
+com.google.ads.af: com.google.ads.internal.a a
+com.google.ads.af: void a(android.webkit.WebView,boolean)
+com.google.ads.af: void a(android.webkit.WebView,java.lang.String)
+com.google.ads.af: void a(android.app.Activity,android.webkit.WebView,java.lang.String)
+com.google.ads.af: boolean a(android.content.Context,long)
+com.google.ads.af: void a(android.app.Activity)
+com.google.ads.ag
+com.google.ads.ag: boolean a(android.content.Context)
+com.google.ads.ag: boolean a(android.content.Intent,android.content.Context)
+com.google.ads.ah
+com.google.ads.ah: ah()
+com.google.ads.ah: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.ah$b
+com.google.ads.ah$b: com.google.ads.ah$b a
+com.google.ads.ah$b: com.google.ads.ah$b b
+com.google.ads.ah$b: java.lang.String c
+com.google.ads.ah$b: com.google.ads.ah$b[] d
+com.google.ads.ah$b: com.google.ads.ah$b[] values()
+com.google.ads.ah$b: com.google.ads.ah$b valueOf(java.lang.String)
+com.google.ads.ah$b: ah$b(java.lang.String,int,java.lang.String)
+com.google.ads.b
+com.google.ads.b: java.math.BigInteger a
+com.google.ads.b: java.math.BigInteger b
+com.google.ads.b: com.google.ads.b c
+com.google.ads.b: com.google.ads.b a()
+com.google.ads.b: java.math.BigInteger b()
+com.google.ads.b: java.math.BigInteger c()
+com.google.ads.b: b()
+com.google.ads.b: java.math.BigInteger d()
+com.google.ads.b: byte[] a(long)
+com.google.ads.c
+com.google.ads.c: java.util.Map a
+com.google.ads.c: java.lang.String b
+com.google.ads.c: java.lang.String c
+com.google.ads.c: java.util.List d
+com.google.ads.c: java.lang.Integer e
+com.google.ads.c: java.lang.Integer f
+com.google.ads.c: java.util.List g
+com.google.ads.c: java.util.List h
+com.google.ads.c: java.util.List i
+com.google.ads.c: com.google.ads.c a(java.lang.String)
+com.google.ads.c: boolean a()
+com.google.ads.c: int b()
+com.google.ads.c: java.lang.String c()
+com.google.ads.c: boolean d()
+com.google.ads.c: int e()
+com.google.ads.c: java.util.List f()
+com.google.ads.c: java.util.List g()
+com.google.ads.c: java.util.List h()
+com.google.ads.c: java.util.List i()
+com.google.ads.c: com.google.ads.a a(org.json.JSONObject)
+com.google.ads.c: com.google.ads.internal.h j()
+com.google.ads.c: java.util.List a(org.json.JSONObject,java.lang.String)
+com.google.ads.c: c(java.lang.String,java.lang.String,java.util.List,java.lang.Integer,java.lang.Integer,java.util.List,java.util.List,java.util.List)
+com.google.ads.d
+com.google.ads.d: com.google.ads.c a
+com.google.ads.d: long b
+com.google.ads.d: d()
+com.google.ads.d: boolean a()
+com.google.ads.d: void a(com.google.ads.c,int)
+com.google.ads.d: com.google.ads.c b()
+com.google.ads.doubleclick.DfpAdView
+com.google.ads.doubleclick.DfpAdView: DfpAdView(android.content.Context,android.util.AttributeSet)
+com.google.ads.doubleclick.DfpAdView: DfpAdView(android.content.Context,android.util.AttributeSet,int)
+com.google.ads.e
+com.google.ads.e: com.google.ads.internal.d a
+com.google.ads.e: com.google.ads.h b
+com.google.ads.e: java.lang.Object c
+com.google.ads.e: java.lang.Thread d
+com.google.ads.e: java.lang.Object e
+com.google.ads.e: boolean f
+com.google.ads.e: java.lang.Object g
+com.google.ads.e: e(com.google.ads.internal.d)
+com.google.ads.e: boolean a()
+com.google.ads.e: void b()
+com.google.ads.e: void a(com.google.ads.c,com.google.ads.AdRequest)
+com.google.ads.e: boolean a(com.google.ads.c,com.google.ads.internal.d)
+com.google.ads.e: boolean a(com.google.ads.h,java.lang.String)
+com.google.ads.e: void a(com.google.ads.h,boolean)
+com.google.ads.e: void a(com.google.ads.h,android.view.View)
+com.google.ads.e: void a(com.google.ads.h)
+com.google.ads.e: void b(com.google.ads.h)
+com.google.ads.e: void c(com.google.ads.h)
+com.google.ads.e: boolean c()
+com.google.ads.e: e()
+com.google.ads.e: boolean d()
+com.google.ads.e: void b(com.google.ads.c,com.google.ads.AdRequest)
+com.google.ads.e: boolean a(java.lang.String,android.app.Activity,com.google.ads.AdRequest,com.google.ads.f,java.util.HashMap,long)
+com.google.ads.e: boolean e(com.google.ads.h)
+com.google.ads.e: com.google.ads.h e()
+com.google.ads.e: void d(com.google.ads.h)
+com.google.ads.f
+com.google.ads.f: java.lang.String a
+com.google.ads.f: java.lang.String b
+com.google.ads.f: java.lang.String c
+com.google.ads.f: java.util.List d
+com.google.ads.f: java.util.List e
+com.google.ads.f: java.util.List f
+com.google.ads.f: f(java.lang.String,java.lang.String,java.lang.String,java.util.List,java.util.List,java.util.List)
+com.google.ads.f: java.lang.String a()
+com.google.ads.f: java.lang.String b()
+com.google.ads.f: java.lang.String c()
+com.google.ads.f: java.util.List d()
+com.google.ads.f: java.util.List e()
+com.google.ads.g
+com.google.ads.g: java.lang.String a(java.lang.String,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+com.google.ads.g: java.lang.Object a(java.lang.String,java.lang.Class)
+com.google.ads.g$a
+com.google.ads.g$a: com.google.ads.g$a a
+com.google.ads.g$a: com.google.ads.g$a b
+com.google.ads.g$a: com.google.ads.g$a c
+com.google.ads.g$a: com.google.ads.g$a d
+com.google.ads.g$a: com.google.ads.g$a e
+com.google.ads.g$a: com.google.ads.g$a f
+com.google.ads.g$a: com.google.ads.g$a[] g
+com.google.ads.g$a: com.google.ads.g$a[] values()
+com.google.ads.g$a: com.google.ads.g$a valueOf(java.lang.String)
+com.google.ads.g$a: g$a(java.lang.String,int)
+com.google.ads.h
+com.google.ads.h: com.google.ads.f b
+com.google.ads.h: boolean c
+com.google.ads.h: boolean d
+com.google.ads.h: com.google.ads.g$a e
+com.google.ads.h: com.google.ads.e f
+com.google.ads.h: com.google.ads.mediation.MediationAdapter g
+com.google.ads.h: boolean h
+com.google.ads.h: boolean i
+com.google.ads.h: android.view.View j
+com.google.ads.h: android.os.Handler k
+com.google.ads.h: java.lang.String l
+com.google.ads.h: com.google.ads.AdRequest m
+com.google.ads.h: java.util.HashMap n
+com.google.ads.h: h(com.google.ads.e,com.google.ads.internal.h,com.google.ads.f,java.lang.String,com.google.ads.AdRequest,java.util.HashMap)
+com.google.ads.h: com.google.ads.f a()
+com.google.ads.h: void a(android.app.Activity)
+com.google.ads.h: void b()
+com.google.ads.h: boolean c()
+com.google.ads.h: boolean d()
+com.google.ads.h: com.google.ads.g$a e()
+com.google.ads.h: android.view.View f()
+com.google.ads.h: void g()
+com.google.ads.h: java.lang.String h()
+com.google.ads.internal.i: com.google.ads.internal.a c
+com.google.ads.internal.i: com.google.ads.internal.d a
+com.google.ads.internal.i: java.util.Map d
+com.google.ads.internal.i: boolean b
+com.google.ads.internal.i: boolean e
+com.google.ads.internal.i: boolean f
+com.google.ads.internal.i: boolean g
+com.google.ads.internal.i: boolean h
+com.google.ads.internal.i: i(com.google.ads.internal.d,java.util.Map,boolean,boolean)
+com.google.ads.internal.i: com.google.ads.internal.i a(com.google.ads.internal.d,java.util.Map,boolean,boolean)
+com.google.ads.internal.i: boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String)
+com.google.ads.internal.i: void onPageFinished(android.webkit.WebView,java.lang.String)
+com.google.ads.internal.i: void a(boolean)
+com.google.ads.internal.i: void b(boolean)
+com.google.ads.internal.i: void c(boolean)
+com.google.ads.internal.i: void d(boolean)
+com.google.ads.l
+com.google.ads.l: com.google.ads.l b
+com.google.ads.l: com.google.ads.util.i$b a
+com.google.ads.l: com.google.ads.l a()
+com.google.ads.l: l()
+com.google.ads.l$a
+com.google.ads.l$a: com.google.ads.util.i$c a
+com.google.ads.l$a: com.google.ads.util.i$c b
+com.google.ads.l$a: com.google.ads.util.i$c c
+com.google.ads.l$a: com.google.ads.util.i$c d
+com.google.ads.l$a: com.google.ads.util.i$c e
+com.google.ads.l$a: com.google.ads.util.i$c f
+com.google.ads.l$a: com.google.ads.util.i$c g
+com.google.ads.l$a: com.google.ads.util.i$c h
+com.google.ads.l$a: com.google.ads.util.i$c i
+com.google.ads.l$a: com.google.ads.util.i$c j
+com.google.ads.l$a: com.google.ads.util.i$c k
+com.google.ads.l$a: com.google.ads.util.i$c l
+com.google.ads.l$a: l$a()
+com.google.ads.m
+com.google.ads.m: com.google.ads.util.i$b a
+com.google.ads.m: com.google.ads.util.i$b b
+com.google.ads.m: com.google.ads.util.i$d c
+com.google.ads.m: com.google.ads.util.i$b d
+com.google.ads.m: com.google.ads.util.i$b e
+com.google.ads.m: com.google.ads.util.i$b f
+com.google.ads.m: com.google.ads.util.i$b g
+com.google.ads.m: com.google.ads.util.i$b h
+com.google.ads.m: com.google.ads.util.i$b i
+com.google.ads.m: com.google.ads.util.i$c j
+com.google.ads.m: com.google.ads.util.i$c k
+com.google.ads.m: com.google.ads.util.i$c l
+com.google.ads.m: boolean a()
+com.google.ads.m: boolean b()
+com.google.ads.m: m(com.google.ads.l,com.google.ads.Ad,com.google.ads.AdView,com.google.ads.InterstitialAd,java.lang.String,android.app.Activity,android.content.Context,android.view.ViewGroup,com.google.ads.internal.h)
+com.google.ads.m: com.google.ads.m a(com.google.ads.Ad,java.lang.String,android.app.Activity,android.view.ViewGroup,com.google.ads.AdSize)
+com.google.ads.n
+com.google.ads.n: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.o
+com.google.ads.o: o()
+com.google.ads.o: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.p
+com.google.ads.p: com.google.ads.internal.a a
+com.google.ads.p: p()
+com.google.ads.p: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.q
+com.google.ads.q: q()
+com.google.ads.q: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.r
+com.google.ads.r: r()
+com.google.ads.r: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.s
+com.google.ads.s: com.google.ads.internal.a a
+com.google.ads.s: s()
+com.google.ads.s: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.searchads.SearchAdRequest$BorderType: com.google.ads.searchads.SearchAdRequest$BorderType[] values()
+com.google.ads.searchads.SearchAdRequest$BorderType: com.google.ads.searchads.SearchAdRequest$BorderType valueOf(java.lang.String)
+com.google.ads.t
+com.google.ads.t: t()
+com.google.ads.t: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.t: java.lang.Runnable a(java.lang.String,android.webkit.WebView)
+com.google.ads.u
+com.google.ads.u: u()
+com.google.ads.u: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.util.AdUtil
+com.google.ads.util.AdUtil: int a
+com.google.ads.util.AdUtil: java.lang.Boolean b
+com.google.ads.util.AdUtil: java.lang.String c
+com.google.ads.util.AdUtil: java.lang.String d
+com.google.ads.util.AdUtil: java.lang.String e
+com.google.ads.util.AdUtil: android.media.AudioManager f
+com.google.ads.util.AdUtil: boolean g
+com.google.ads.util.AdUtil: boolean h
+com.google.ads.util.AdUtil: java.lang.String i
+com.google.ads.util.AdUtil: boolean a(android.content.Intent,android.content.Context)
+com.google.ads.util.AdUtil: java.lang.String a(java.lang.Readable)
+com.google.ads.util.AdUtil: int a(java.lang.String)
+com.google.ads.util.AdUtil: java.lang.String a(android.content.Context)
+com.google.ads.util.AdUtil: int a()
+com.google.ads.util.AdUtil: int b()
+com.google.ads.util.AdUtil: int a(android.content.Context,android.util.DisplayMetrics)
+com.google.ads.util.AdUtil: int b(android.content.Context,android.util.DisplayMetrics)
+com.google.ads.util.AdUtil: boolean b(android.content.Context)
+com.google.ads.util.AdUtil: boolean a(int,int,java.lang.String)
+com.google.ads.util.AdUtil: boolean c(android.content.Context)
+com.google.ads.util.AdUtil: boolean c()
+com.google.ads.util.AdUtil: boolean a(android.net.Uri)
+com.google.ads.util.AdUtil: java.lang.String b(java.lang.String)
+com.google.ads.util.AdUtil: java.lang.String d(android.content.Context)
+com.google.ads.util.AdUtil: java.lang.String e(android.content.Context)
+com.google.ads.util.AdUtil: java.lang.String f(android.content.Context)
+com.google.ads.util.AdUtil: com.google.ads.util.AdUtil$a g(android.content.Context)
+com.google.ads.util.AdUtil: android.util.DisplayMetrics a(android.app.Activity)
+com.google.ads.util.AdUtil: java.lang.String a(android.location.Location)
+com.google.ads.util.AdUtil: java.lang.String b(android.location.Location)
+com.google.ads.util.AdUtil: java.lang.String c(java.lang.String)
+com.google.ads.util.AdUtil: java.util.HashMap b(android.net.Uri)
+com.google.ads.util.AdUtil: boolean d()
+com.google.ads.util.AdUtil: void a(boolean)
+com.google.ads.util.AdUtil: void h(android.content.Context)
+com.google.ads.util.AdUtil: java.lang.String i(android.content.Context)
+com.google.ads.util.AdUtil: void a(android.webkit.WebView)
+com.google.ads.util.AdUtil: void a(java.net.HttpURLConnection,android.content.Context)
+com.google.ads.util.AdUtil: java.lang.String a(java.util.Map)
+com.google.ads.util.AdUtil: org.json.JSONObject b(java.util.Map)
+com.google.ads.util.AdUtil: org.json.JSONArray a(java.util.Set)
+com.google.ads.util.AdUtil$UserActivityReceiver
+com.google.ads.util.AdUtil$UserActivityReceiver: AdUtil$UserActivityReceiver()
+com.google.ads.util.AdUtil$UserActivityReceiver: void onReceive(android.content.Context,android.content.Intent)
+com.google.ads.util.AdUtil$a
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a a
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a b
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a c
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a d
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a e
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a f
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a[] g
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a[] values()
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a valueOf(java.lang.String)
+com.google.ads.util.AdUtil$a: AdUtil$a(java.lang.String,int)
+com.google.ads.util.a
+com.google.ads.util.a: boolean a
+com.google.ads.util.a: void a(boolean)
+com.google.ads.util.a: void a(boolean,java.lang.String)
+com.google.ads.util.a: void b(boolean)
+com.google.ads.util.a: void b(boolean,java.lang.String)
+com.google.ads.util.a: void a(java.lang.Object)
+com.google.ads.util.a: void b(java.lang.Object)
+com.google.ads.util.a: void a(java.lang.Object,java.lang.Object)
+com.google.ads.util.a: void a(java.lang.String)
+com.google.ads.util.a: void c(boolean,java.lang.String)
+com.google.ads.util.a$a
+com.google.ads.util.a$a: a$a(java.lang.String)
+com.google.ads.util.b
+com.google.ads.util.b: com.google.ads.util.b$b a
+com.google.ads.util.b: int b
+com.google.ads.util.b: void a(com.google.ads.util.b$a,java.lang.String)
+com.google.ads.util.b: void a(com.google.ads.util.b$a,java.lang.String,java.lang.Throwable)
+com.google.ads.util.b: void a(java.lang.String)
+com.google.ads.util.b: void a(java.lang.String,java.lang.Throwable)
+com.google.ads.util.b: void b(java.lang.String)
+com.google.ads.util.b: void b(java.lang.String,java.lang.Throwable)
+com.google.ads.util.b: void c(java.lang.String)
+com.google.ads.util.b: void c(java.lang.String,java.lang.Throwable)
+com.google.ads.util.b: void d(java.lang.String)
+com.google.ads.util.b: void e(java.lang.String)
+com.google.ads.util.b: void d(java.lang.String,java.lang.Throwable)
+com.google.ads.util.b: boolean a(java.lang.String,int)
+com.google.ads.util.b: boolean a(int)
+com.google.ads.util.b$a
+com.google.ads.util.b$a: com.google.ads.util.b$a a
+com.google.ads.util.b$a: com.google.ads.util.b$a b
+com.google.ads.util.b$a: com.google.ads.util.b$a c
+com.google.ads.util.b$a: com.google.ads.util.b$a d
+com.google.ads.util.b$a: com.google.ads.util.b$a e
+com.google.ads.util.b$a: int f
+com.google.ads.util.b$a: com.google.ads.util.b$a[] g
+com.google.ads.util.b$a: com.google.ads.util.b$a[] values()
+com.google.ads.util.b$a: com.google.ads.util.b$a valueOf(java.lang.String)
+com.google.ads.util.b$a: b$a(java.lang.String,int,int)
+com.google.ads.util.b$b
+com.google.ads.util.b$b: void a(com.google.ads.util.b$a,java.lang.String,java.lang.Throwable)
+com.google.ads.util.c
+com.google.ads.util.c: byte[] a(java.lang.String)
+com.google.ads.util.c: byte[] a(byte[],int)
+com.google.ads.util.c: byte[] a(byte[],int,int,int)
+com.google.ads.util.c: java.lang.String b(byte[],int)
+com.google.ads.util.c: byte[] c(byte[],int)
+com.google.ads.util.c: byte[] b(byte[],int,int,int)
+com.google.ads.util.c: c()
+com.google.ads.util.c$a
+com.google.ads.util.c$a: byte[] a
+com.google.ads.util.c$a: int b
+com.google.ads.util.c$a: c$a()
+com.google.ads.util.c$b
+com.google.ads.util.c$b: int[] c
+com.google.ads.util.c$b: int[] d
+com.google.ads.util.c$b: int e
+com.google.ads.util.c$b: int f
+com.google.ads.util.c$b: int[] g
+com.google.ads.util.c$b: c$b(int,byte[])
+com.google.ads.util.c$b: boolean a(byte[],int,int,boolean)
+com.google.ads.util.c$c
+com.google.ads.util.c$c: byte[] h
+com.google.ads.util.c$c: byte[] i
+com.google.ads.util.c$c: byte[] j
+com.google.ads.util.c$c: int c
+com.google.ads.util.c$c: int k
+com.google.ads.util.c$c: boolean d
+com.google.ads.util.c$c: boolean e
+com.google.ads.util.c$c: boolean f
+com.google.ads.util.c$c: byte[] l
+com.google.ads.util.c$c: c$c(int,byte[])
+com.google.ads.util.c$c: boolean a(byte[],int,int,boolean)
+com.google.ads.util.e
+com.google.ads.util.e: int a(android.content.Context,android.util.DisplayMetrics)
+com.google.ads.util.e: int b(android.content.Context,android.util.DisplayMetrics)
+com.google.ads.util.e: int a(android.content.Context,float,int)
+com.google.ads.util.f
+com.google.ads.util.f: java.lang.Object b()
+com.google.ads.util.g
+com.google.ads.util.g: void a(android.webkit.WebSettings,com.google.ads.m)
+com.google.ads.util.g: void a(android.view.View)
+com.google.ads.util.g: void b(android.view.View)
+com.google.ads.util.g: void a(android.view.Window)
+com.google.ads.util.g$a
+com.google.ads.util.g$a: com.google.ads.m a
+com.google.ads.util.g$a: g$a(com.google.ads.m)
+com.google.ads.util.g$a: void onCloseWindow(android.webkit.WebView)
+com.google.ads.util.g$a: boolean onConsoleMessage(android.webkit.ConsoleMessage)
+com.google.ads.util.g$a: void onExceededDatabaseQuota(java.lang.String,java.lang.String,long,long,long,android.webkit.WebStorage$QuotaUpdater)
+com.google.ads.util.g$a: boolean onJsAlert(android.webkit.WebView,java.lang.String,java.lang.String,android.webkit.JsResult)
+com.google.ads.util.g$a: boolean onJsBeforeUnload(android.webkit.WebView,java.lang.String,java.lang.String,android.webkit.JsResult)
+com.google.ads.util.g$a: boolean onJsConfirm(android.webkit.WebView,java.lang.String,java.lang.String,android.webkit.JsResult)
+com.google.ads.util.g$a: boolean onJsPrompt(android.webkit.WebView,java.lang.String,java.lang.String,java.lang.String,android.webkit.JsPromptResult)
+com.google.ads.util.g$a: void onReachedMaxAppCacheSize(long,long,android.webkit.WebStorage$QuotaUpdater)
+com.google.ads.util.g$a: void onShowCustomView(android.view.View,android.webkit.WebChromeClient$CustomViewCallback)
+com.google.ads.util.g$a: boolean a(android.webkit.WebView,java.lang.String,java.lang.String,java.lang.String,android.webkit.JsResult,android.webkit.JsPromptResult,boolean)
+com.google.ads.util.g$a: void a(android.app.AlertDialog$Builder,java.lang.String,android.webkit.JsResult)
+com.google.ads.util.g$a: void a(android.app.AlertDialog$Builder,android.content.Context,java.lang.String,java.lang.String,android.webkit.JsPromptResult)
+com.google.ads.util.g$b
+com.google.ads.util.g$b: g$b(com.google.ads.internal.d,java.util.Map,boolean,boolean)
+com.google.ads.util.g$b: android.webkit.WebResourceResponse shouldInterceptRequest(android.webkit.WebView,java.lang.String)
+com.google.ads.util.g$b: android.webkit.WebResourceResponse a(java.lang.String,android.content.Context)
+com.google.ads.util.h
+com.google.ads.util.h$a
+com.google.ads.util.h$a: h$a(com.google.ads.m)
+com.google.ads.util.h$a: void onShowCustomView(android.view.View,int,android.webkit.WebChromeClient$CustomViewCallback)
+com.google.ads.util.i
+com.google.ads.util.i: java.lang.Object a
+com.google.ads.util.i: int b
+com.google.ads.util.i: java.util.HashMap c
+com.google.ads.util.i: int m
+com.google.ads.util.i: java.util.ArrayList d
+com.google.ads.util.i: i()
+com.google.ads.util.i: void finalize()
+com.google.ads.util.i: java.lang.String toString()
+com.google.ads.util.i: void a(com.google.ads.util.i$a)
+com.google.ads.util.i$a
+com.google.ads.util.i$a: java.lang.Object a
+com.google.ads.util.i$a: java.lang.String b
+com.google.ads.util.i$a: i$a(com.google.ads.util.i,java.lang.String)
+com.google.ads.util.i$a: i$a(com.google.ads.util.i,java.lang.String,java.lang.Object)
+com.google.ads.util.i$a: java.lang.String toString()
+com.google.ads.util.i$b
+com.google.ads.util.i$b: i$b(com.google.ads.util.i,java.lang.String,java.lang.Object)
+com.google.ads.util.i$b: java.lang.Object a()
+com.google.ads.util.i$b: java.lang.String toString()
+com.google.ads.util.i$c
+com.google.ads.util.i$c: boolean e
+com.google.ads.util.i$c: i$c(com.google.ads.util.i,java.lang.String)
+com.google.ads.util.i$c: i$c(com.google.ads.util.i,java.lang.String,java.lang.Object)
+com.google.ads.util.i$c: java.lang.Object a()
+com.google.ads.util.i$c: void a(java.lang.Object)
+com.google.ads.util.i$c: java.lang.String toString()
+com.google.ads.util.i$d
+com.google.ads.util.i$d: i$d(com.google.ads.util.i,java.lang.String,java.lang.Object)
+com.google.ads.util.i$d: java.lang.Object a()
+com.google.ads.util.i$d: java.lang.String toString()
+com.google.ads.v
+com.google.ads.v: v()
+com.google.ads.v: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.w
+com.google.ads.w: w()
+com.google.ads.w: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.w: void a(java.util.HashMap,java.lang.String,com.google.ads.util.i$c)
+com.google.ads.w: void b(java.util.HashMap,java.lang.String,com.google.ads.util.i$c)
+com.google.ads.w: void c(java.util.HashMap,java.lang.String,com.google.ads.util.i$c)
+com.google.ads.x
+com.google.ads.x: x()
+com.google.ads.x: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.y
+com.google.ads.y: com.google.ads.AdActivity$StaticMethodWrapper a
+com.google.ads.y: y()
+com.google.ads.y: y(com.google.ads.AdActivity$StaticMethodWrapper)
+com.google.ads.y: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+com.google.ads.z
+com.google.ads.z: z()
+com.google.ads.z: void a(com.google.ads.internal.d,java.util.HashMap,android.webkit.WebView)
+info.u250.c2d.engine.CoreProvider$TransitionType: info.u250.c2d.engine.CoreProvider$TransitionType[] values()
+info.u250.c2d.engine.CoreProvider$TransitionType: info.u250.c2d.engine.CoreProvider$TransitionType valueOf(java.lang.String)
+info.u250.c2d.graphic.AnimationSprite$AnimationMode: info.u250.c2d.graphic.AnimationSprite$AnimationMode[] values()
+info.u250.c2d.graphic.AnimationSprite$AnimationMode: info.u250.c2d.graphic.AnimationSprite$AnimationMode valueOf(java.lang.String)
+info.u250.snakeonaplane.SnakeOnAPlaneAndroidActivity
+info.u250.snakeonaplane.SnakeOnAPlaneAndroidActivity: SnakeOnAPlaneAndroidActivity()
